@@ -1,0 +1,2 @@
+**In this program the content of the file**
+   will be displayed on the console.
